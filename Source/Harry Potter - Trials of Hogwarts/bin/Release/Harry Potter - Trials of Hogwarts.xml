@@ -1,0 +1,136 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Harry Potter - Trials of Hogwarts
+</name>
+</assembly>
+<members>
+<member name="T:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.BlankHogwarts">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.btnHover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.btnIdle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.CharSetupBG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.DimGray50Alpha">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.DimGray80Alpha">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.Fire">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.Harry">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.Hedwig">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.Hermione">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.HPTH_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.Ice">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.JumperBG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.LevelSelectBG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.Logo_Medium">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.MenuBG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.Rock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.Ron">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.Voldemort_Cutscene">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.VoldemortCharge0">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.VoldemortCharge1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Harry_Potter___Trials_of_Hogwarts.My.Resources.Resources.VoldemortCharge2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
